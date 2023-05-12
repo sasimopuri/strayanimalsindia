@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/strayanimal/static/css/main.fb453793.css",
+    "main.js": "/strayanimal/static/js/main.50308b0f.js",
+    "static/media/seri.png": "/strayanimal/static/media/seri.a477b8be5eaaa95dcf08.png",
+    "static/media/home.png": "/strayanimal/static/media/home.d4d81f7374a20bdad74d.png",
+    "static/media/adoptionfff.png": "/strayanimal/static/media/adoptionfff.92e755baf7d562205395.png",
+    "static/media/surenderffffff.png": "/strayanimal/static/media/surenderffffff.d36553a45274989c5b30.png",
+    "static/media/cruff.png": "/strayanimal/static/media/cruff.b47a1c6aee418903290a.png",
+    "static/media/kimbely.webp": "/strayanimal/static/media/kimbely.6b4d9ef00a8bf3eb823f.webp",
+    "static/media/ujwala.webp": "/strayanimal/static/media/ujwala.4e189298733b18358d5c.webp",
+    "static/media/swetha.webp": "/strayanimal/static/media/swetha.5c1b69d152732b7de53d.webp",
+    "static/media/gyaneshwar.webp": "/strayanimal/static/media/gyaneshwar.63c330ef86a1e1466015.webp",
+    "static/media/logo.png": "/strayanimal/static/media/logo.b2127b7c147e3e2a6a2f.png",
+    "index.html": "/strayanimal/index.html",
+    "main.fb453793.css.map": "/strayanimal/static/css/main.fb453793.css.map",
+    "main.50308b0f.js.map": "/strayanimal/static/js/main.50308b0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb453793.css",
+    "static/js/main.50308b0f.js"
+  ]
+}
