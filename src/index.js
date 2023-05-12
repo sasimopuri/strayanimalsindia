@@ -9,6 +9,7 @@ import Contactus from './components/Contactus';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 const appRouter= createBrowserRouter([{
+  basename:"/strayanimalsindia",
   path:"/",
   element:<App />,
   children:[
